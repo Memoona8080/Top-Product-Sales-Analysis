@@ -42,10 +42,9 @@ These queries form the backbone of all insights presented in the project.
 Includes two PowerPoint presentations:
 - **Basic Presentation** – High-level business storytelling and key findings  
 - **In-Depth Analysis Presentation** – Deeper exploration with additional factors such as:
-  - Seasonality patterns
-  - Regional performance differences
-  - Cross-selling insights
-  - Strategic recommendations
+  - Employee Perofrmance
+  - Territorial Analysis
+  - Customer Segmentation
 
 This shows both **executive-level storytelling** and **analytical depth**.
 
